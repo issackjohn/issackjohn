@@ -23,7 +23,6 @@ const issack = {
 };
 ```
 
-- 🔭 I'm currently working on side projects and learning in public.
 - 🌱 Always leveling up — new languages, tools, and patterns.
 - 💬 Ask me about anything I'm building.
 - ⚡ Fun fact: a good README is half the project.
